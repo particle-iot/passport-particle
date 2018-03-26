@@ -1,0 +1,8 @@
+{
+  "root": true,
+  "extends": "particle",
+  "env": {
+    "node": true,
+    "es6": true
+  }
+}

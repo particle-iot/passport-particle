@@ -1,0 +1,21 @@
+{
+  "name": "passport-particle",
+  "version": "0.0.0",
+  "description": "Passport Particle strategy",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint -f unix .",
+    "lint:fix": "eslint --fix -f unix ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "particle-api-js": "^7.2.0",
+    "passport-strategy": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-particle": "^2.1.0"
+  }
+}
